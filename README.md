@@ -1,0 +1,2 @@
+# mapasdeconsumo
+Mapas de consumo covid-19 ha sido un proyecto desarrollado por el estudio de diseño gráfico Espiral 8 y José Manuel Uría Ph. D. que ha contado con la financiación de Gijón Impulsa a través de la línea Plataformas Empresariales de Innovación como parte de la convocatoria de Incentivos a la Innovación 2020. Su objetivo era la obtención de información sobre los hábitos de consumo en el pequeño comercio de Gijón mediante la aplicación de técnicas de ciencia de datos. En este proyecto se muestran los resultados obtenidos.
